@@ -1,0 +1,12 @@
+<svg width="220" height="160" viewBox="0 0 220 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="60" y="10" width="150" height="110" rx="55" fill="#A06A3B"/>
+  <path d="M45 95C28 80 35 55 60 55C66 40 85 30 105 35C120 5 170 5 185 40C215 45 210 95 180 100" fill="#7C4C24"/>
+  <path d="M45 110C20 115 10 140 35 150C55 158 85 152 95 132" fill="#C96E2D"/>
+  <circle cx="52" cy="105" r="24" fill="#EBD6C1"/>
+  <circle cx="45" cy="100" r="6" fill="#2E1B10"/>
+  <circle cx="60" cy="100" r="6" fill="#2E1B10"/>
+  <path d="M48 112C55 118 64 118 70 112" stroke="#2E1B10" stroke-width="3" stroke-linecap="round"/>
+  <path d="M50 88C45 70 55 60 70 60" stroke="#E38A4B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M118 40C130 28 155 30 165 45C150 55 125 55 118 40Z" fill="#2D6A4F"/>
+  <text x="90" y="80" font-family="'Playfair Display', serif" font-size="36" fill="#2E1B10">Ardy</text>
+</svg>
